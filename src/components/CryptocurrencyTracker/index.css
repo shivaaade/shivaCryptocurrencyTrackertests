@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.table {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.bgcolor {
+  background-color: black;
+}
